@@ -2,10 +2,11 @@
 # this is your module manifest and used by Titanium
 # during compilation, packaging, distribution, etc.
 #
-version: 0.1
+version: 0.2
 apiversion: 2
-description: My module
-author: Your Name
+architectures: armeabi armeabi-v7a x86
+description: ticontent
+author: David Bankier
 license: Specify your license
 copyright: Copyright (c) 2013 by Your Company
 
@@ -15,4 +16,4 @@ name: ticontent
 moduleid: yy.ticontent
 guid: 840419d1-e348-493f-8bfd-6b961e4458b5
 platform: android
-minsdk: 3.1.3.GA
+minsdk: 5.0.0.GA
