@@ -2,7 +2,7 @@
 # this is your module manifest and used by Titanium
 # during compilation, packaging, distribution, etc.
 #
-version: 1.0
+version: 1.0.1
 apiversion: 3
 architectures: armeabi-v7a x86
 description: ticontent
@@ -16,4 +16,4 @@ name: ticontent
 moduleid: yy.ticontent
 guid: 840419d1-e348-493f-8bfd-6b961e4458b5
 platform: android
-minsdk: 6.0.0.GA
+minsdk: 6.1.0.GA
